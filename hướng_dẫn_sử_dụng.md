@@ -1,5 +1,4 @@
 ** Link cập nhật tool và hướng dẫn chi tiết tại **
-https://github.com/zuydd/moonbix
 
 **_ Hướng dẫn cài đặt _**
 
